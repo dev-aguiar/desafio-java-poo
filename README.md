@@ -10,7 +10,7 @@ Modelagem e diagramação da representação em UML e Código no que se refere a
 
 ### Representação em UML
 
-![Representação em UML do projeto](src\imagens\UML-Projeto-iPhone.png)
+![Representação em UML do projeto](src/imagens/UML-Projeto-iPhone.png)
 
 ### Comportamentos do projeto:
 
